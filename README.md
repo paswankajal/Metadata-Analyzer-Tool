@@ -32,7 +32,7 @@ The **Metadata Analyzer Tool** is a Python-based desktop application that extrac
 
 ```bash
 git clone https://github.com/paswankajal/metadata-analyzer-tool.git
-cd metadata-analyzer-tool
+
 ```
 
 bash
